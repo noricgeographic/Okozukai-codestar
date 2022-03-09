@@ -17,6 +17,7 @@
   </head>
   <body class="">
     <div class="wrapper">
+      <h1>hogehoge!!!</h1>
       <div class="graphics">
         <div class="tower">
           <svg version="1.1" id="Layer_1" xmlns="https://www.w3.org/2000/svg" xmlns:xlink="https://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-11 170 1000 429" enable-background="new -11 170 1000 429" xml:space="preserve">
